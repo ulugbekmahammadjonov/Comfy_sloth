@@ -1,6 +1,8 @@
 import React from 'react'
 import PageHero from '../components/PageHero';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
+
 const CartPage = () => {
   return (
     <main>
